@@ -1,6 +1,6 @@
 require_relative '../dice_roll'
 
-def roll(side)
+def roll
 
 end
 
